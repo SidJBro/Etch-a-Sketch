@@ -1,0 +1,12 @@
+.container {
+    height: 800px;
+    width: 800px;
+    border: 1px solid black;
+    display: grid;
+    gap: 1px;
+}
+
+.container div {
+    
+    background-color: aquamarine;
+}
